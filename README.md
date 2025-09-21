@@ -1,5 +1,5 @@
 <div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=2500&pause=300&color=3582FF&center=true&vCenter=true&multiline=true&repeat=false&width=435&height=63&lines=Oi%2C+tudo+bem%3F;Meu+nome+%C3%A9+Henrique!!" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=2500&pause=300&color=3582FF&center=true&vCenter=true&multiline=true&width=435&height=63&lines=Oi%2C+tudo+bem%3F;Meu+nome+%C3%A9+Henrique!!" alt="Typing SVG" /></a>
 <br><br>
 <pre>
     Sou estudante de Desenvolvimento de Software Multiplataforma. 
